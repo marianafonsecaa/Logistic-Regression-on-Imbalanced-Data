@@ -97,8 +97,11 @@ Running the Notebook:
 ## Project Structure
 
 ├── class_imbalance/          # Folder containing CSV datasets
+
 ├── [notebook.ipynb](http://_vscodecontentref_/0)            # Main Jupyter Notebook
+
 ├── README.md                 # Project documentation
+
 └── Presentation.pdf  # slides focusing on the main issues of the assignment
 
 
